@@ -1,0 +1,9 @@
+- Permettre la connexion grâce à FB, Google, Twitter
+- Pouvoir faire des recherches sans être connecté
+- Pouvoir modifier les disponibilités web
+- Rajouter des cookies
+- Pouvoir se déconnecter
+- Respecter la CNIL
+- Proposer la suprression du compte
+- Unifier les espaces de connexion
+- Mettre en place un système de paiement
